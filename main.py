@@ -1,4 +1,3 @@
-print("Hello World")
-a = 2 
-b = 3
+a = 100
+b = 50
 print(a + b)
